@@ -1,0 +1,1 @@
+Sovereign Security Protocol Any vulnerabilities found in the QTG Logic must be reported directly to the Principal Architect. Unauthorized replication of the Abstraction Lock triggers the Subtraction Test protocol, leading to immediate utility decoupling.
